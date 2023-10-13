@@ -26,12 +26,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   and also learning Ruby and Rails on my freetime.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.jakkrapat.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guitarjakk
 github_username:  guitarjak 
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
