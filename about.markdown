@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+### สวัสดีครับทุกคน ผมชื่อกีตาร์นะครับ
+เมื่อสองเดือนก่อนผมทำงานอยู่ที่โรงเรียนแห่งหนึ่งในจังหวัดภูเก็ต แต่ตอนนี้รู้ตัวอีกที กลับมาเป็นเด็กมหาลัยใหม่อีกละ ผมได้มีโอกาสมาเรียนต่อปริญญาโทที่อังกฤษในสาขา MBA ครับ และนี่ก็กำลังเข้าเดือนที่ 2 ที่ผมมาอยู่ที่นี่ 
+
+> "Writing things down helps you clarify" 
+
+ประโยคด้านบนเป็นประโยคแรกที่อาจารย์ผมพูดในคลาส Personal Development ซึ่งจุดประสงค์หลักๆ ของโมดูล(วิชา)นี้คือเพื่อจะช่วยให้เราสามารถเข้าใจและพัฒนาตัวเองได้ดีขึ้น สิ่งที่ผมไม่เคยเจอเลยจากตอนเรียนที่ไทยคือการที่เราจะต้องมานั่งเขียน Daily Reflect สั้นๆ ส่งทุกครั้งหลังจบคาบว่า:
+- เราได้อะไรจากคลาสนี้บ้าง 
+- เรียนรู้เรื่องไหนบ้าง 
+- ชอบตรงไหน 
+- ไม่ชอบตรงไหน 
+- จากสิ่งที่เราได้เรียนรู้วันนี้ เรามีแพลนจะ action ยังไงต่อ
+
+หลังจากผมเขียนส่งไปซักพัก ก็เริ่มรู้สึกว่า จริงๆ การเขียนอะไรประมาณนี้ก็ดีเนอะ มันทำให้เราได้ย้อนคิด ทบทวน ตกผลึกสิ่งที่ได้เรียนมา บวกกับผมเริ่มทำ Knowledge Management System มาซักพักนึงแล้ว (ปกติผมจะจดสิ่งต่างๆ ลงใน app ตัวนึงที่ชื่อว่า Notion ครับ) เลยคิดว่าลองเขียน Blog บ้างดีกว่า เผื่อวันไหนโน๊ตบน Notion หายก็ยังมีตรงนี้อยู่ (ฮ่าๆ)
+
+#### ก็เลยเป็นที่มาของ Blog นี้ครับ!
+_Oct 15, 23_
