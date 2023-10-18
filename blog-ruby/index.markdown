@@ -4,5 +4,5 @@
 
 layout: home-ruby
 title: "Ruby Course"
-catagory: Ruby
+category: Ruby
 ---

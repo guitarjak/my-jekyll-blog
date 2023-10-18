@@ -4,5 +4,5 @@
 
 layout: home-travel
 title: "Travel"
-catagory: Travel
+category: Travel
 ---

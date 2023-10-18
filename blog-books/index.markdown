@@ -4,5 +4,5 @@
 
 layout: home-books
 title: "Books"
-catagory: Books
+category: Books
 ---
